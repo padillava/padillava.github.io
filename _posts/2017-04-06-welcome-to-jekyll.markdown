@@ -74,6 +74,6 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
-{% include elements/video.html id="hyn8OK1Co_Y" %}
+{% include video.html id="hyn8OK1Co_Y" %}
 
 
