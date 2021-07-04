@@ -74,6 +74,8 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/X8KBBmaEbJs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
