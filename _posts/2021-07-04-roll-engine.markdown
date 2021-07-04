@@ -17,4 +17,4 @@ After 9 months of work with a classmate, we were able to create a Graphic Engine
 * Includes Render to Texture to include any post-processing. Includes HDR with Bloom and inverting colors.
 
 
-{% include video.html id="fM-2AUXy_K4" % width="100%" height="450px"}
+{% include video.html id="fM-2AUXy_K4" % }
