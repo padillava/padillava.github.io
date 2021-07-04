@@ -74,8 +74,6 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
-<div class="video">
-  <iframe src="https://www.youtube.com/embed/X8KBBmaEbJs" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include elements/video.html id="hyn8OK1Co_Y" %}
 
 
