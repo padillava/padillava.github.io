@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Cube: A 3D puzzle adventure
+title: Project Cube
 date: 2021-07-05 19:15:00 +0300
 description: A mobile game available in Play Store.
 img: project-cube.png # Add image post (optional)
