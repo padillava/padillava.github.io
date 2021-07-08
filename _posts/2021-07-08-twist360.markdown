@@ -1,0 +1,17 @@
+---
+layout: post
+title: Twist360
+date: 2021-07-08 12:15:00 +0300
+description: Game designed to be played only with joysticks.
+img: twist360.PNG # Add image post (optional)
+tags: [Unity3D, C#]
+---
+
+A game made with a partner in ESAT. This game was supposed to be played only with the joysticks of a controller. We designed this game that consists on random enemies of four different colors spawning at radom in the borders of the game and going towards the center of the map. The player should move and rotate the caracter so depending of the color of the enemy, they hit it with the same color and score. The game starts to speed up the best you are doing it and new types of enemies start spawning. But if you get hit, the game slows down, making you feel that you lost progress. The game includes:
+
+* 5 types of enemies.
+* A button to make a sprint.
+* A button to create a wave and destroy all the enemies around you.
+
+
+{% include video.html id="L_bh2VvPYGc" %}
