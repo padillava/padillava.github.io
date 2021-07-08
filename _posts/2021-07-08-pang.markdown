@@ -7,7 +7,7 @@ img: pang.PNG # Add image post (optional)
 tags: [C++] # add tag
 ---
 
-Basing me in the classic Pang, a year ago I made this game on ESAT. It tries to emulate the original game as much as possible including some of the power-ups from the original game. The game is made from zero using the library from ESAT and incluse a database in MySQL where all the levels are stored. Once you complete a level, it loads the next one. And it includes an interface of ImGui that the user can use to add platforms, bubbles and even create their own levels and include them in the database. Also, all the elements can be modified to change the current level where you are right now. The game includes:
+Based in the classic Pang, a year ago I made this game on ESAT. It tries to emulate the original game as much as possible including some of the power-ups from the original game. The game is made from zero using the library from ESAT and incluse a database in MySQL where all the levels are stored. Once you complete a level, it loads the next one. And it includes an interface of ImGui that the user can use to add platforms, bubbles and even create their own levels and include them in the database. Also, all the elements can be modified to change the current level where you are right now. The game includes:
 
 * Animations made with the original art.
 * Physics of the bubbles hand-made.
