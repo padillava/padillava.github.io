@@ -1,0 +1,20 @@
+---
+layout: post
+title: Hideout
+date: 2021-07-08 13:16:00 +0300
+description: Game published on Steam.
+img: hideout.jpg # Add image post (optional)
+tags: [Unreal Engine, Development, C++]
+---
+
+After 10 months of work with a team of 8 programmers, 7 artists, 2 designers and 2 musicians, in ESAT we developed a game called Hideout: Face your fears. It is a stealth game where May, the protagonist, has to face against an horde of robots to try to get medicines for her ill brother. She will have tools to distract, locate and temporary deactivate the enemies but one mistake and she will die against those killer machines.
+
+In this game there are 5 types of enemies. The stalker, who acts like an alarm for the rest of enemies. The grunt, the basic enemy who can search in hidding spots. The nightblade, who is blind but is really fast. The bersecker, who doesn't distinguise friends from enemies. And the sledgehammer, who is able to shoot projectiles and destroy walls.
+
+In this developement I've been focused, among other tasks in the proyect, in:
+
+* Design and developement of all the AI of the game, including behaviour trees, tasks and controllers.
+* Implementation of all the animations from the enemies of the game.
+* Mechanic of throwing and interaction with the AI.
+
+And the best of this proyect, everyone is free to play this game that is published in <a href="https://store.steampowered.com/app/1659400/Hideout_Face_your_fears/">Steam</a>
