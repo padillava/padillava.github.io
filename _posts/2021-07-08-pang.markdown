@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pang
-date: 2021-07-08 11:50:00 +0300
+date: 2022-06-27 15:30:00 +0300
 description: A game based on the original Pang.
 img: pang.PNG # Add image post (optional)
 tags: [C++] # add tag
