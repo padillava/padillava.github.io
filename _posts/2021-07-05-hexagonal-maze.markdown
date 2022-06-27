@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hexagonal Maze
-date: 2021-07-05 20:40:00 +0300
+date: 2022-06-27 14:40:00 +0300
 description: A game with a procedural generated maze.
 img: hexagonal-maze.png # Add image post (optional)
 tags: [Unreal Engine, C++] # add tag
