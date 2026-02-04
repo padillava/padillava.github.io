@@ -1,0 +1,21 @@
+---
+layout: post
+title: Edison Go
+date: 2026-01-01 15:40:00 +0300
+description: iOS app published in Apple Store.
+img: edison-go.png # Add image post (optional)
+tags: [iOS, Development, swift, objective C, xcode]
+---
+
+After 3 years working on Brainstorm I've been a solo developer with this app that the company published in the Apple Store. It was fully developed in mac using both languages, swift and objective C. My main purpose in this developement have been adding new features to the app as well as debugging and fixing bugs.
+
+At the beggining I didn't have any experience with swift or iOS, and in the company there wasn't any partner with knowledge so for the three years I've been learning by myself everything I needed about swift to make those new features and make a good product for the company.
+
+The main features of this app were:
+
+* 3D world working with ARKit to be able to have camera tracking.
+* Transmission of the video with metadata trough NDI.
+* Recording of the video and the metadata to save it as a file.
+* Introducing 3D objects in the world.
+
+And even more features that you can check by downloading the app for free in <a href="https://apps.apple.com/es/app/edison-go/id1609953136">the Apple Store</a>.
